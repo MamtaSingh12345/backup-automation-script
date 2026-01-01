@@ -1,3 +1,6 @@
-/_pycache_
-/successfullBackup
+__pycache__/
+*.pyc
+*.log
 bulocks.txt
+SuccessfulBackup/
+backup/
